@@ -1,0 +1,6 @@
+{
+  "name": "Postal Beats Dashboard",
+  "description": "Interactive data search dashboard with live Google Sheet integration, real-time visualizations, dynamic text highlighting, and postal beat directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

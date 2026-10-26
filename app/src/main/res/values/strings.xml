@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Postal Beats</string>
+    <string name="app_subtitle">Moradabad Postal Division Master Directory</string>
+    <string name="search_hint">Search villages, localities, beats, PIN...</string>
+    <string name="total_sub_offices">Total Sub-Offices</string>
+    <string name="total_beats">Delivery Beats</string>
+    <string name="filtered_matches">Filtered Matches</string>
+    <string name="covered_pincodes">PIN Codes</string>
+    <string name="total_localities">Indexed Localities</string>
+    <string name="all_offices">All Sub-Offices</string>
+    <string name="all_pincodes">All PIN Codes</string>
+    <string name="sync_google_sheet">Sync Google Sheet</string>
+    <string name="google_sheet_integration">Google Sheet Integration</string>
+    <string name="sheet_url_label">Google Sheet Published CSV URL</string>
+    <string name="sync_now">Sync Now</string>
+    <string name="reset_default">Reset to Master Data</string>
+    <string name="analytics">Visualizations</string>
+    <string name="directory">Directory</string>
+    <string name="bookmarks">Saved Beats</string>
+    <string name="no_results_found">No matching postal beats found</string>
+    <string name="no_results_hint">Try adjusting your query or resetting filter chips</string>
+</resources>
